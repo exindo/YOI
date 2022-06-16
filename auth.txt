@@ -1,1 +1,1 @@
-{"DeviceId":"steam_xxxxx","GoogleId":"","FacebookId":"","AppleId":"","Token":"xxxxx","Timestamp":xxx,"Hash":"xxxxx"}
+{"DeviceId":"63139faa913426cba392c727830347d8","GoogleId":"a_8786819397503551902","FacebookId":"","Token":"LrlNEbAkmzeN82ydUmL4mjx_FJ_L04sM","Timestamp":1655340048,"Hash":"474574d30045a85b619f6e7d633f81c1997b79c1"}
